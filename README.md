@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mali-zi
 - 👀 I’m interested in the software development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on some web-design projects.
 - 📫 How to reach me - by email mne310872@yandex.ru
 
