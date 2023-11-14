@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mali-zi
-- 👀 I’m interested in the software development.
-- 🌱 I’m currently learning React JS.
-- 💞️ I’m looking to collaborate on some web-design projects.
+- 👀 I’m frontend (React JS) developer.
+- 🌱 I’m currently searching for a job as React JS developer.
 - 📫 How to reach me - by email mne310872@yandex.ru
 
 <!---
