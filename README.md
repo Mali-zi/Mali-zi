@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mali-zi
-- 👀 I’m frontend (React JS) developer.
+- 👀 I’m a frontend (React JS) developer.
 - 🌱 I’m currently searching for a job as React JS developer.
 - 📫 How to reach me - by email mne310872@yandex.ru
 
