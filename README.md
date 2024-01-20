@@ -26,14 +26,5 @@ Languages and Tools:
 
 
 
-
-
-
-
-
-
-
-
-
-JavaScript Golang TypeScript Docker React.js Next.js Redux Node.js HTML CSS3 AntDesign Bootstrap MySQL PostgreSQL MongoDB Redis Figma Netlify Ubuntu NestJS VS Code Postman
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mali-zi)](https://github.com/anuraghazra/github-readme-stats)
 
