@@ -10,6 +10,26 @@ You can click the Preview link to take a look at your changes.
 
 Languages and Tools:
 ![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/f4ee2aa0-1433-471d-91b6-468d21627114)
+![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/8a19144b-5e49-4241-bb1e-24d73ed1f4cd)
+![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/4020c994-aa9a-4315-8cd9-c77107cbd36c)
+![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/4007b058-8e74-4bd4-a431-c33d90df6bef)
+![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/edf1dbb5-17ef-4d22-8397-90cfa829b6c9)
+![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/357e7e71-4fbc-48de-a53b-4c54a2f95f9d)
+![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/03ae8fbe-f749-4dd3-b246-c8879a878080)
+![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/0969b0c0-ffe8-4340-a855-fb7cf0fb01a1)
+![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/8abb53b7-21d1-427d-b5ed-5faedf806269)
+![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/f1f18c78-1027-4330-96cb-97341727ca62)
+![image](https://github.com/Mali-zi/Mali-zi/assets/116107544/179b0a80-7a6c-4d4b-90f2-b2adb86bf5e6)
+
+
+
+
+
+
+
+
+
+
+
 JavaScript Golang TypeScript Docker React.js Next.js Redux Node.js HTML CSS3 AntDesign Bootstrap MySQL PostgreSQL MongoDB Redis Figma Netlify Ubuntu NestJS VS Code Postman
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="20" role="img" aria-label="TypeScript"><title>TypeScript</title><g shape-rendering="crispEdges"><rect width="0" height="20" fill="#555"/><rect x="0" width="87" height="20" fill="#007acc"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlR5cGVTY3JpcHQ8L3RpdGxlPjxwYXRoIGQ9Ik0xLjEyNSAwQy41MDIgMCAwIC41MDIgMCAxLjEyNXYyMS43NUMwIDIzLjQ5OC41MDIgMjQgMS4xMjUgMjRoMjEuNzVjLjYyMyAwIDEuMTI1LS41MDIgMS4xMjUtMS4xMjVWMS4xMjVDMjQgLjUwMiAyMy40OTggMCAyMi44NzUgMHptMTcuMzYzIDkuNzVjLjYxMiAwIDEuMTU0LjAzNyAxLjYyNy4xMTFhNi4zOCA2LjM4IDAgMCAxIDEuMzA2LjM0djIuNDU4YTMuOTUgMy45NSAwIDAgMC0uNjQzLS4zNjEgNS4wOTMgNS4wOTMgMCAwIDAtLjcxNy0uMjYgNS40NTMgNS40NTMgMCAwIDAtMS40MjYtLjJjLS4zIDAtLjU3My4wMjgtLjgxOS4wODZhMi4xIDIuMSAwIDAgMC0uNjIzLjI0MmMtLjE3LjEwNC0uMy4yMjktLjM5My4zNzRhLjg4OC44ODggMCAwIDAtLjE0LjQ5YzAgLjE5Ni4wNTMuMzczLjE1Ni41MjkuMTA0LjE1Ni4yNTIuMzA0LjQ0My40NDRzLjQyMy4yNzYuNjk2LjQxYy4yNzMuMTM1LjU4Mi4yNzQuOTI2LjQxNi40Ny4xOTcuODkyLjQwNyAxLjI2Ni42MjguMzc0LjIyMi42OTUuNDczLjk2My43NTMuMjY4LjI3OS40NzIuNTk4LjYxNC45NTcuMTQyLjM1OS4yMTQuNzc2LjIxNCAxLjI1MyAwIC42NTctLjEyNSAxLjIxLS4zNzMgMS42NTZhMy4wMzMgMy4wMzMgMCAwIDEtMS4wMTIgMS4wODUgNC4zOCA0LjM4IDAgMCAxLTEuNDg3LjU5NmMtLjU2Ni4xMi0xLjE2My4xOC0xLjc5LjE4YTkuOTE2IDkuOTE2IDAgMCAxLTEuODQtLjE2NCA1LjU0NCA1LjU0NCAwIDAgMS0xLjUxMi0uNDkzdi0yLjYzYTUuMDMzIDUuMDMzIDAgMCAwIDMuMjM3IDEuMmMuMzMzIDAgLjYyNC0uMDMuODcyLS4wOS4yNDktLjA2LjQ1Ni0uMTQ0LjYyMy0uMjUuMTY2LS4xMDguMjktLjIzNC4zNzMtLjM4YTEuMDIzIDEuMDIzIDAgMCAwLS4wNzQtMS4wODkgMi4xMiAyLjEyIDAgMCAwLS41MzctLjUgNS41OTcgNS41OTcgMCAwIDAtLjgwNy0uNDQ0IDI3LjcyIDI3LjcyIDAgMCAwLTEuMDA3LS40MzZjLS45MTgtLjM4My0xLjYwMi0uODUyLTIuMDUzLTEuNDA1LS40NS0uNTUzLS42NzYtMS4yMjItLjY3Ni0yLjAwNSAwLS42MTQuMTIzLTEuMTQxLjM2OS0xLjU4Mi4yNDYtLjQ0MS41OC0uODA0IDEuMDA0LTEuMDg5YTQuNDk0IDQuNDk0IDAgMCAxIDEuNDctLjYyOSA3LjUzNiA3LjUzNiAwIDAgMSAxLjc3LS4yMDF6bS0xNS4xMTMuMTg4aDkuNTYzdjIuMTY2SDkuNTA2djkuNjQ2SDYuNzg5di05LjY0NkgzLjM3NXoiLz48L3N2Zz4="/><text x="525" y="140" transform="scale(.1)" fill="#fff" textLength="590">TypeScript</text></g></svg>
