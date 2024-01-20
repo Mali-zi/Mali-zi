@@ -28,5 +28,6 @@ Languages and Tools:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mali-zi)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mali-zi&size_weight=0.5&count_weight=0.5)
-<img align="center" src="https://camo.githubusercontent.com/23f2656f33407aabce08dba68d4c19906344a97ae6157909e24f8a49291c0264/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7361696437333838266c61796f75743d636f6d70616374267468656d653d7965626c7526686964655f626f726465723d7472756526266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mali-zi;layout=compact&amp;theme=yeblu&amp;hide_border=true&amp;&amp;langs_count=8" style="max-width: 100%;">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mali-zi;layout=compact&amp;theme=yeblu&amp;hide_border=true&amp;&amp;langs_count=6)
+
 
