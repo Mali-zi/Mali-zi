@@ -27,7 +27,7 @@ Languages and Tools:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mali-zi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mali-zi&size_weight=0.5&count_weight=0.5&amp;theme=yeblu&amp;hide_border=true&amp;&amp;langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mali-zi&theme=yeblu&amp;hide_border=true)
 
 
 
