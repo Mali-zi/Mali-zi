@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 Languages and Tools:
-
+![](https://camo.githubusercontent.com/d7d0f5ef713c40161bd3f23076ce9e4efcfeecfabbb8661dba7e9f3971c3fc1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
 <img src="https://camo.githubusercontent.com/d7d0f5ef713c40161bd3f23076ce9e4efcfeecfabbb8661dba7e9f3971c3fc1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/f464a1513c4d6c1c8ea06c6644e451e37dbde7d2d90b59067ac22165ab682c72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/076c6bee7e34877337340b4a2de43c0485c0f425a00a549518b98e75f2acd3aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742e6a732d3030383143423f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="React.js" data-canonical-src="https://img.shields.io/badge/React.js-0081CB?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;">
@@ -24,9 +24,7 @@ Languages and Tools:
 <img src="https://camo.githubusercontent.com/4c6590c569d6b5b3c9cd6e674c80da8d860a6b0827124aeab237188f6d19f2e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666c61742d737175617265266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465" alt="Netlify" data-canonical-src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&amp;logo=netlify&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/7005c10cff301a1faffecd1e2e91e4659b70045ac8f091e7c3273554c5db33d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c53747564696f2d3243324233303f7374796c653d666c6173746963266c6f676f3d56697375616c53747564696f436f6465266c6f676f436f6c6f723d303037414343" alt="VS Code" data-canonical-src="https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&amp;logo=VisualStudioCode&amp;logoColor=007ACC" style="max-width: 100%;">
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mali-zi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mali-zi&theme=yeblu&amp;hide_border=true)
 
 
