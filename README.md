@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 ## Connect With Me: ##
-<a href="https://t.me/Mali3108" rel="nofollow"><img src="https://camo.githubusercontent.com/87c4ce5c8873f0f43c6e7146a48640edf5e5ad5ce6c64ef61f1705307c792907/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74656c656772616d2d3162373746462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&amp;logo=telegram" style="max-width: 100%;"></a>
+<a href="https://t.me/Mali3108" rel="nofollow"><img src="https://camo.githubusercontent.com/5aa465824dc6077ebec4ad223785a4db5c992eb370e64275a2a76d0bd34a0ffc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d323741304439" alt="Telegram" data-canonical-src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&amp;logo=telegram&amp;logoColor=27A0D9" style="max-width: 100%;"></a>
 
 ## Languages and Tools: ##
 ![](https://camo.githubusercontent.com/d7d0f5ef713c40161bd3f23076ce9e4efcfeecfabbb8661dba7e9f3971c3fc1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
